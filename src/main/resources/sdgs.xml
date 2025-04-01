@@ -1,0 +1,61 @@
+<ObjectList>
+    <objects>
+        <objects type="rectangle">
+            <x>501</x>
+            <y>4</y>
+            <width>58</width>
+            <height>79</height>
+        </objects>
+        <objects type="rectangle">
+            <x>510</x>
+            <y>516</y>
+            <width>95</width>
+            <height>68</height>
+        </objects>
+        <objects type="triangle">
+            <x>541</x>
+            <y>248</y>
+            <x1>549</x1>
+            <y1>266</y1>
+            <x2>469</x2>
+            <y2>179</y2>
+        </objects>
+        <objects type="rectangle">
+            <x>65</x>
+            <y>428</y>
+            <width>74</width>
+            <height>58</height>
+        </objects>
+        <objects type="triangle">
+            <x>247</x>
+            <y>287</y>
+            <x1>164</x1>
+            <y1>195</y1>
+            <x2>247</x2>
+            <y2>279</y2>
+        </objects>
+        <objects type="triangle">
+            <x>154</x>
+            <y>411</y>
+            <x1>75</x1>
+            <y1>489</y1>
+            <x2>66</x2>
+            <y2>412</y2>
+        </objects>
+        <objects type="triangle">
+            <x>397</x>
+            <y>428</y>
+            <x1>378</x1>
+            <y1>338</y1>
+            <x2>487</x2>
+            <y2>437</y2>
+        </objects>
+        <objects type="oval">
+            <x>576</x>
+            <y>62</y>
+            <radiusX>65</radiusX>
+            <radiusY>73</radiusY>
+        </objects>
+    </objects>
+    <empty>false</empty>
+</ObjectList>
